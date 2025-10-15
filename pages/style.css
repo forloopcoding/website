@@ -12,17 +12,17 @@ body {
 }
 
 code {
-  font-family: "fira mono", monospace;
+  /* font-family: "roboto mono", monospace; */
 }
 
 h1, h2 {
   color: #6a8bad;
-  font-family: "fira mono", monospace;
+  /* font-family: "roboto mono", monospace; */
 }
 
 h3 {
   color: #7ea6cf;
-  font-family: "fira mono", monospace;
+  /* font-family: "roboto mono", monospace; */
 }
 
 a {
@@ -52,7 +52,7 @@ a:visited   {
   margin-left: 10pt;
   margin-right: 10pt;
   color: #bbbbbb;
-  font-family: "fira mono", monospace;
+  font-family: "roboto mono", monospace;
 }
 
 #content img {
@@ -96,7 +96,7 @@ a:visited   {
 
 #navbar {
   color: #585858;
-  font-family: "fira mono", monospace;
+  font-family: "roboto mono", monospace;
   font-size: 1.1em;
   font-weight: bold;
   height: 100%;
@@ -136,7 +136,7 @@ a:hover.navbarlink  {
 }
 
 .inline-code {
-  font-family: "fira mono", monospace;
+  font-family: "roboto mono", monospace;
   font-size: 11pt;
   color: #f8f8f2;
   background: #2e2f29;
